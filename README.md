@@ -21,7 +21,7 @@ Summary of Data Cleaning:
 
 Findings from Exploratory Analysis:
 
-1. The plot shows that highest salary by Data Science tech lead is > 400,000 USD and the lowest by Power BI developer is < 3000 USD.
+1. The plot shows that highest salary by Data Science tech lead is > 400,000 USD and the lowest by Power BI developer is < 30000 USD.
 2. The average salary of workers in the Data Science field is between 100,000-150,000 USD.
 3. For Employee Residence and Company location, the US is the highest in terms of frequency, followed by UK. A total of over 1900 Employees and Companies are resident in the US while other locations record values below 50 for both Employee residence and company location.
 4. Top Data Science job titles include 'Data Engineer', ' Data Scientist', 'Data Analyst', and 'Machine Learning Engineer'
