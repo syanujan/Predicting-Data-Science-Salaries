@@ -29,6 +29,10 @@ Findings from Exploratory Analysis:
 
 ---
 
+Regression Models:
+
+Prior to creating the models, we created feature transformation pipelines for our numerical and categorical data, to better aid the models in their predictions. 
+
 More TBA.
 
    
